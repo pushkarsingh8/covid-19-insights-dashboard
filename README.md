@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Dashboard (2020–2022) 📊
+# 🦠 COVID-19 Insights Full (2020–2022) 📊
 
 This project visualizes the spread and impact of COVID-19 in India from 2020 to 2022 using Python, Pandas, and Matplotlib. It includes time-series and categorical visualizations such as line charts, bar graphs, and pie charts for monthly and state-wise analysis.
 
